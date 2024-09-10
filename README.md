@@ -1,3 +1,21 @@
+Introducing ReachInbox
+ReachInbox is a revolutionary AI-driven platform that is transforming the way businesses conduct cold outreach. It serves as an all-in-one solution for effortlessly finding, enriching, and engaging high-intent leads through multi-channel outreach, including Twitter, LinkedIn, email, and phone.
+
+With just a single prompt, ReachInbox sets the wheels in motion by prospecting and verifying leads, crafting personalized outreach sequences, and notifying businesses of responsive prospects. Think of it as an AI-powered growth team, continuously generating top-tier leads for your business. ReachInbox is more than just a tool it's your dedicated growth partner.
+
+Functionalities:
+AI-driven multi-channel outreach across Twitter, LinkedIn, email, and phone.
+Lead prospecting, verification, and personalized sequence crafting.
+Real-time notifications for responsive prospects.
+Steps to Run Locally:
+Clone the Repository:
+git clone https://github.com/Swathi1203/Frontend-Assignment.git
+Navigate to the Project Directory:
+cd ReachInbox.ai
+Install Dependencies:
+npm install
+Run the Application:
+npm run dev
 
 
 ## Preview:
