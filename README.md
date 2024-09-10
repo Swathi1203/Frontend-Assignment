@@ -23,7 +23,20 @@ Clone the GitHub repository to your local machine using the following command:
 ```bash
 git clone https://github.com/Swathi1203/Frontend-Assignment.git
 
-
+```
+### 2 **Navigate to the Project Directory**
+command:
+```
+bash cd ReachInbox.ai
+```
+### 3. **Install Dependencies**
+```bash
+npm install
+```
+### 4.** Run the Application**
+```bash
+npm run dev
+```
 
 ## Preview:
 ![Screenshot (395)](https://github.com/user-attachments/assets/9d1d5d06-dab5-4cf9-8236-0d7dd41eb212)
