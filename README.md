@@ -1,21 +1,28 @@
-Introducing ReachInbox
-ReachInbox is a revolutionary AI-driven platform that is transforming the way businesses conduct cold outreach. It serves as an all-in-one solution for effortlessly finding, enriching, and engaging high-intent leads through multi-channel outreach, including Twitter, LinkedIn, email, and phone.
+# ReachInbox
 
-With just a single prompt, ReachInbox sets the wheels in motion by prospecting and verifying leads, crafting personalized outreach sequences, and notifying businesses of responsive prospects. Think of it as an AI-powered growth team, continuously generating top-tier leads for your business. ReachInbox is more than just a tool it's your dedicated growth partner.
+ReachInbox is a revolutionary AI-driven platform that transforms how businesses handle cold outreach. It serves as an all-in-one solution to find, enrich, and engage high-intent leads using multi-channel outreach, including Twitter, LinkedIn, email, and phone.
 
-Functionalities:
-AI-driven multi-channel outreach across Twitter, LinkedIn, email, and phone.
-Lead prospecting, verification, and personalized sequence crafting.
-Real-time notifications for responsive prospects.
-Steps to Run Locally:
-Clone the Repository:
+With a single prompt, ReachInbox starts prospecting and verifying leads, crafting personalized outreach sequences, and notifying businesses of responsive prospects. Think of it as an AI-powered growth team, continuously generating top-tier leads for your business. ReachInbox is more than just a tool—it's your dedicated growth partner.
+
+## Functionalities
+- **AI-driven multi-channel outreach**: Engage leads across Twitter, LinkedIn, email, and phone.
+- **Lead prospecting and verification**: Automatically prospect and verify leads.
+- **Personalized sequences**: Craft outreach sequences tailored to specific leads.
+- **Real-time notifications**: Get instant notifications when prospects respond.
+
+---
+
+## Steps to Run the Application Locally
+
+Follow these instructions to set up and run the ReachInbox application on your local machine:
+
+### 1. **Clone the Repository**
+
+Clone the GitHub repository to your local machine using the following command:
+
+```bash
 git clone https://github.com/Swathi1203/Frontend-Assignment.git
-Navigate to the Project Directory:
-cd ReachInbox.ai
-Install Dependencies:
-npm install
-Run the Application:
-npm run dev
+
 
 
 ## Preview:
